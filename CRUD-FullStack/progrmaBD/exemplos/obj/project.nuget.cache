@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J0GtUegtxo2qfi4LynXlxqiytaaUm0Jyf5LXaoM9m8L46DZTlmfMll+Y5QCOAqfF+NV0FDU1yBucK+jBiZWDcw==",
+  "dgSpecHash": "XXZFE0e8kfY=",
   "success": true,
-  "projectFilePath": "/home/ezequiel/Secretária/FRONT/CRUD-FullStack/progrmaBD/exemplos/exemplos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FRONT\\CRUD-FullStack\\progrmaBD\\exemplos\\exemplos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
