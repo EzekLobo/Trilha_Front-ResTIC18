@@ -1,6 +1,7 @@
 # TRILHA_FRONT-RESTIC18
 
 _Empowering Innovation, Inspiring Change Every Step Forward_
+
 ![TypeScript](https://img.shields.io/badge/typescript-42.5%25-blue?style=flat-square&logo=typescript)
 ![Languages](https://img.shields.io/badge/languages-6-red?style=flat-square)
 
@@ -39,8 +40,6 @@ Principais pontos:
 - Sincronização em tempo real via Firebase  
 - Interfaces ricas para gerenciamento de dados  
 - Componentes e rotas modulares  
-- Suporte a testes automatizados  
-
 ---
 
 ## Como Iniciar
